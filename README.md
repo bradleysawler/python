@@ -1,3 +1,3 @@
 # python
 
-Will add misc info here related to python.  
+I will add misc info here related to python.  
